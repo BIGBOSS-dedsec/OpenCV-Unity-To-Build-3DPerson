@@ -11,7 +11,7 @@
 
 [CSDN](https://blog.csdn.net/weixin_50679163?type=edu)： https://blog.csdn.net/weixin_50679163?type=edu
 
-同时本篇文章实现的技术参加了**稀土掘金2022编程挑战赛-游戏赛道**
+同时本篇文章实现的技术参加了**稀土掘金2022编程挑战赛-游戏赛道-优秀奖**
 [作品展示](https://hackathon2022.juejin.cn/#/works/detail?unique=WJoYomLPg0JOYs8GazDVrw)：https://hackathon2022.juejin.cn/#/works/detail?unique=WJoYomLPg0JOYs8GazDVrw
 ![alt](https://img-blog.csdnimg.cn/fe53f98d73984d669c9501c222ede030.png)
 # 认识Mediapipe
